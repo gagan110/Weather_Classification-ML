@@ -1,1 +1,3 @@
 # Weather_Classification-ML
+
+This repository contains the reports results and code of the Weather Images. Multiclass Classifications was done on the different weather conditions such as dew, fogsmog, frost, glaze, hail, lightning, rain,rainbow, rime, sandstorm, snow, which is compatible for supervised learning.
