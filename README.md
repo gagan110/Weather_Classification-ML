@@ -4,5 +4,5 @@ This repository contains the reports results and code of the Weather Images. Mul
 
 [Phase-1.pdf](https://github.com/gagan110/Weather_Classification-ML/blob/main/Phase%201.pdf)  
 [Phase-2.pdf](https://github.com/gagan110/Weather_Classification-ML/blob/main/%20Phase%202.pdf)  
-[Phase-3.pdf](https://github.com/gagan110/Weather_Classification-ML/blob/main/%20Phase%203.pdf)  
-[Phase-4.pdf](https://github.com/gagan110/Weather_Classification-ML/blob/main/%20Phase%204.pdf)  
+[Phase-3.pdf](https://github.com/gagan110/Weather_Classification-ML/blob/main/Phase%203.pdf)  
+[Phase-4.pdf](https://github.com/gagan110/Weather_Classification-ML/blob/main/Phase%204.pdf)  
